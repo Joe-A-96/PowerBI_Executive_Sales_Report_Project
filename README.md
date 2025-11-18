@@ -23,8 +23,6 @@ This project showcases expertise in building sophisticated, enterprise-level BI 
 ### 1. Data Transformation (Power Query / M-Language)
 
 * **Enterprise ETL:** Connected to and cleaned large, disparate data sources, ensuring data quality and consistency for executive reporting.
-* **M-Language Proficiency:** Developed custom functions and complex transformations (e.g., handling ragged hierarchies, unpivoting data) within the Power Query Editor.
-* **Date Table Automation:** Created a robust and dynamic **Date Dimension Table** essential for accurate time intelligence calculations.
 
 ### 3. Executive Dashboard Design & Visualization
 
