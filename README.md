@@ -1,5 +1,3 @@
-# PowerBI_Executive_Sales_Report_Project
-
 ## 💼 Executive Sales & Financial Performance Dashboard (Power BI)
 
 **A high-level, interactive Business Intelligence dashboard designed for executive leadership, providing a comprehensive overview of sales performance, profitability, and key financial drivers for strategic decision-making.**
